@@ -13,9 +13,6 @@ The six interfaces of the RAMES:
 Here are some examples of test if the exemplar is running correctly:
 (Before testing the interfaces, please download the exemplar and follow the [instructions of the exemplar](https://zenodo.org/doi/10.5281/zenodo.10400820), and check the port of each service)
 
-```bash
-```bash
-CRUL:
 
 load balance weight:
 
