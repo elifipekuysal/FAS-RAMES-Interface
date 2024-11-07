@@ -1,4 +1,4 @@
-# RAMES-Interface
+# RAMSES-Interface
 Before testing the interfaces, please download the exemplar and follow the [instructions of the exemplar](https://zenodo.org/doi/10.5281/zenodo.10400820)
 Here are some examples of test if the exemplar is running correctly:
 
